@@ -7,7 +7,7 @@ Here we will give you some tips on how to customize the website. One important t
 
 ## Project structure
 
-The project is structured as follows, focusing on the main components that you will need to modify:
+The project is structured as follows, focusing on the main components that you will need to modify
 
 ```txt
 .
