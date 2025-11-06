@@ -25,4 +25,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi there! I am slowly building my website. 
+I am a scientist and machine learning engineer with a passion for turning complex data into elegant solutions. I got my PhD in theoretical physics from the [Max Planck Institute of Colloids and Interfaces](https://www.mpikg.mpg.de/en) in Potsdam, Germany. My journey has taken me from the world of theoretical biophysics to the frontiers of machine learning. I am a firm believer in the power of open source and contributing to projects like [NMRLipids](https://github.com/NMRLipids/Databank), [scikit-mol](https://github.com/EBjerrum/scikit-mol), and [IDPdatabank](https://github.com/ohsOllila/IDPdatabank). Currently, I am taking a career break to explore the exciting fields of agentic AI and knowledge graphs, exploring new ways to build intelligent systems.
