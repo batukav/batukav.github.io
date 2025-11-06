@@ -1,97 +1,106 @@
-# - title: General Information
-#   type: map
-#   contents:
-#     - name: Full Name
-#       value: Albert Einstein
-#     - name: Date of Birth
-#       value: 14th March 1879
-#     - name: Languages
-#       value: English, German
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Batuhan Kav
+    - name: Languages
+      value: Turkish (Native), English (Professional), German (Advanced)
 
-# - title: Education
-#   type: time_table
-#   contents:
-#     - title: PhD
-#       institution: University of Zurich, Zurich, Switzerland
-#       year: 1905
-#       description:
-#         - Description 1.
-#         - Description 2.
-#         - title: Description 3.
-#           contents:
-#             - Sub-description 1.
-#             - Sub-description 2.
-#     - title: Federal teaching diploma
-#       institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-#       year: 1900
-#       description:
-#         - Description 1.
-#         - Description 2.
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in Theoretical Biophysics
+      institution: Max Planck Institute of Colloids and Interfaces, Potsdam, Germany
+      year: 2015 - 2019
+    - title: MSc in Physics
+      institution: Koç University, Istanbul, Turkey
+      year: 2013 - 2015
+    - title: BSc in Chemistry
+      institution: Bilkent University, Ankara, Turkey
+      year: 2009 - 2013
 
-# - title: Experience
-#   type: time_table
-#   contents:
-#     - title: Professor of Theoretical Physics
-#       institution: Institute for Advanced Study, Princeton University
-#       year: 1933 - 1955
-#       description:
-#         - Description 1.
-#         - Description 2.
-#         - title: Description 3.
-#           contents:
-#             - Sub-description 1.
-#             - Sub-description 2.
-#     - title: Visiting Professor
-#       institution: California Institute of Technology, Pasadena, California, US
-#       year: 1933
-#       description:
-#         - Description 1.
-#         - Description 2.
+- title: Experience
+  type: time_table
+  contents:
+    - title: Intentional Carreer Break
+    - year: 06.2025 - Present
+    - description:
+      - Open-source project development in AI4Science
+      - Agentic AI and knowledge graphs
+    - title: Machine Learning Engineer
+      institution: ariadne.ai GmbH, Heidelberg, Germany
+      year: 2022 - 2025
+      description:
+        - Led research and development for biomedical imaging and spatial data analysis, resulting in three different features offered as part of company's SAAS
+        - Developed robust object (cell and tissue) segmentation models using deep neural networks, significantly reducing project delivery times.
+        - Led internal and customer projects involving statistical modeling of high-dimensional image data. 
+    - title: Postdoctoral Researcher
+      institution: Forschungszentrum Jülich, Jülich, Germany (with Prof. Birgit Strodel).
+      year: 2019 - 2022
+      description:
+        - Main focus on understanding the structure and aggregation dynamics of the intrinsically disordered proteins related to the neurodegenerative diseases.
+        - Developed a virtual drug discovery data pipeline for compounds preventing disordered protein aggregation.
+        - Developed machine learning methods for molecular dynamics force field development.
+        - Investigated the effect of mutations in protein sequences and their relevance for renal diseases.
+    - title: PhD Student
+      institution: Max Planck Institute of Colloids and Interfaces, Potsdam, Germany (with Dr. Thomas Weikl and Prof. Dr. Emanuel Schneck).
+      year: 2015 - 2019
+      description:
+        - Investigated the role of membrane-embedded small sugar molecules in facilitating membrane adhesion using molecular dynamics simulations.
+        - Developed a full-atomistic molecular dynamics force field to accommodate different water types.
+        - Developed statistical methods for predicting the forces between small sugar molecules during binding.
 
-#     - title: Director
-#       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-#       year: 1917-1933
+- title: Open Source Projects
+  type: time_table
+  contents:
+    - title: <a href="https://github.com/NMRLipids/Databank">NMRLipids (FAIRMD) Project</a>
+      year: 2020 - Present
+      description: Core designer and developer of the open-source NMRLipids databank for molecular dynamics simulation data. Currently it is the world's largest open databank on lipids.
+    - title: <a href="https://github.com/EBjerrum/scikit-mol">scikit-mol</a>
+      year: 2025 - Present
+      description: Contributor to a project aiming to seamlessly combine machine learning library scikit-learn and cheminformatics library RDKit to streamline machine learning workflows for cheminformatics.
+    - title: <a href="https://github.com/ohsOllila/IDPdatabank">IDPdatabank</a>
+      year: 2025 - Present
+      description: Core designer and developer of the open-source IDPDatabank that can be used to validate classical and generative AI structure predictions. 
 
-#     - title: Professor of Theoretical Physics
-#       institution: Karl-Ferdinand University, Prague, Czechoslovakia
-#       year: 1911 - 1917
-#       description:
+- title: Professional Interests
+  type: nested_list
+  contents:
+    - title: Machine Learning
+      items:
+        - Deep Learning, Computer Vision, Graph Neural Networks
+    - title: Computational Chemistry
+      items:
+        - Molecular Dynamics, Drug Discovery, Cheminformatics
+    - title: Biomedical Data Analysis
+      items:
+        - Biomedical Imaging, Proteomics, Transcriptomics
+    - title: Agentic AI and Knowledge Graphs
 
-#     - title: Associate Professor of Theoretical Physics
-#       institution: University of Zurich, Zurich, Switzerland
-#       year: 1909 - 1911
-
-# - title: Open Source Projects
-#   type: time_table
-#   contents:
-#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-#       year: 2015-now
-#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-# - title: Honors and Awards
-#   type: time_table
-#   contents:
-#     - year: 1921
-#       items:
-#         - Nobel Prize in Physics
-#         - Matteucci Medal
-#     - year: 2029
-#       items:
-#         - Max Planck Medal
-
-# - title: Academic Interests
-#   type: nested_list
-#   contents:
-#     - title: Topic 1.
-#       items:
-#         - Description 1.
-#         - Description 2.
-#     - title: Topic 2.
-#       items:
-#         - Description 1.
-#         - Description 2.
-
-# - title: Other Interests
-#   type: list
-#   contents:
-#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+- title: Computer Skills
+  type: nested_list
+  contents:
+    - title: Languages
+      items:
+        - Python
+    - title: ML Frameworks
+      items:
+        - PyTorch, PyTorch-geometric, scikit-learn
+    - title: Python Libraries
+      items:
+        - numpy, scikit-image, OpenCV, Pandas, RDKit, squidpy
+    - title: Cloud
+      items:
+        - AWS, GCP
+    - title: Version Control
+      items:
+        - git
+    - title: Databases
+      items:
+        - SQL
+    - title: ML/Dev-Ops
+      items:
+        - MLFlow, Docker
+    - title: Molecular Dynamics and Docking
+      items:
+        - AMBER, Gromacs, OpenMM, Autodock Vina
