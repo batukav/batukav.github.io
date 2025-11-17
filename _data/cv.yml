@@ -22,11 +22,11 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Intentional Carreer Break
-    - year: 06.2025 - Present
-    - description:
-      - Open-source project development in AI4Science
-      - Agentic AI and knowledge graphs
+    - title: Intentional Career Break
+      year: 06.2025 - Present
+      description:
+        - Open-source project development in AI4Science
+        - Agentic AI and knowledge graphs
     - title: Machine Learning Engineer
       institution: ariadne.ai GmbH, Heidelberg, Germany
       year: 2022 - 2025
