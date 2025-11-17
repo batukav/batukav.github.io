@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: I'll put some smart motto here.
+#subtitle: I'll put some smart motto here.
 
 profile:
   align: right
