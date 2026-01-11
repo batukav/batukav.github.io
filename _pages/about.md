@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Karlsruhe, Germany</p>
+    <p>Aachen, Germany</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -25,4 +25,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a scientist and machine learning engineer with a passion for turning complex data into elegant solutions. I got my PhD in theoretical physics from the [Max Planck Institute of Colloids and Interfaces](https://www.mpikg.mpg.de/en) in Potsdam, Germany. My journey has taken me from the world of theoretical biophysics to the frontiers of machine learning. I am a firm believer in the power of open source and contributing to projects like [NMRLipids](https://github.com/NMRLipids/Databank), [scikit-mol](https://github.com/EBjerrum/scikit-mol), and [IDPdatabank](https://github.com/ohsOllila/IDPdatabank). Currently, I am taking a career break to explore the exciting fields of agentic AI, knowledge graphs, as well as to increase my contributions to the open source project.
+I am a scientist and machine learning engineer with a passion for turning complex data into elegant solutions. I got my PhD in theoretical physics from the [Max Planck Institute of Colloids and Interfaces](https://www.mpikg.mpg.de/en) in Potsdam, Germany. My journey has taken me from the world of theoretical biophysics to the frontiers of machine learning. I am a firm believer in the power of open source and contributing to projects like [NMRLipids](https://github.com/NMRLipids/Databank), [scikit-mol](https://github.com/EBjerrum/scikit-mol), and [IDPdatabank](https://github.com/ohsOllila/IDPdatabank). Currently, I am taking a career break to explore the exciting fields of agentic AI, knowledge graphs, as well as to increase my contributions to the open source projects.
