@@ -41,7 +41,7 @@
       description:
         - Led research and development for biomedical imaging and spatial data analysis, resulting in three different features offered as part of company's SAAS.
         - Developed robust object (cell and tissue) segmentation models using deep neural networks, significantly reducing project delivery times.
-        - Led internal and customer projects involving statistical modeling of high-dimensional image data. 
+        - Led internal and customer projects involving statistical modeling of high-dimensional image data.
     - title: Postdoctoral Researcher
       institution: Forschungszentrum Jülich, Jülich, Germany (with Prof. Birgit Strodel).
       year: 2019 - 2022
@@ -69,7 +69,7 @@
       description: Contributor to a project aiming to seamlessly combine machine learning library scikit-learn and cheminformatics library RDKit to streamline machine learning workflows for cheminformatics.
     - title: <a href="https://github.com/ohsOllila/IDPdatabank">IDPdatabank</a>
       year: 2025 - Present
-      description: Core designer and developer of the open-source IDPDatabank that can be used to validate classical and generative AI structure predictions. 
+      description: Core designer and developer of the open-source IDPDatabank that can be used to validate classical and generative AI structure predictions.
 
 # - title: Professional Interests
 #   type: nested_list
