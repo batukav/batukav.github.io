@@ -1,10 +1,10 @@
-github_users:
-  - batukav
+# github_users:
+#   - batukav
 
-repo_description_lines_max: 2
+# repo_description_lines_max: 2
 
-github_repos:
-  - NMRLipids/FAIRMD_lipids
-  - ohsOllila/IDPdatabank
-  - batukav/scikit-mol
-  - batukav/NMRlipidsVIpolarizableFFs
+# github_repos:
+#   - NMRLipids/FAIRMD_lipids
+#   - ohsOllila/IDPdatabank
+#   - batukav/scikit-mol
+#   - batukav/NMRlipidsVIpolarizableFFs
