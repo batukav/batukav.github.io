@@ -25,4 +25,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a scientist and machine learning engineer with a passion for turning complex data into elegant solutions. I got my PhD in theoretical physics from the [Max Planck Institute of Colloids and Interfaces](https://www.mpikg.mpg.de/en) in Potsdam, Germany. My journey has taken me from the world of theoretical biophysics to the frontiers of machine learning. I am a firm believer in the power of open source and contributing to projects like [NMRLipids](https://github.com/NMRLipids/Databank), [scikit-mol](https://github.com/EBjerrum/scikit-mol), and [IDPdatabank](https://github.com/ohsOllila/IDPdatabank). Currently, I am taking a career break to explore the exciting fields of agentic AI, knowledge graphs, as well as to increase my contributions to the open source projects.
+I'm a scientist at heart and a machine learning engineer by trade, with a habit of asking "why does this work?" before asking "how do we ship it?" My background is in theoretical physics — I completed my PhD at the [Max Planck Institute of Colloids and Interfaces in Potsdam, Germany](https://www.mpikg.mpg.de/en) — but the pull of complex real-world problems eventually brought me to AI and ML.
+
+Before moving into the VR space, I spent several years at [ariadne.ai](https://ariadne.ai/) working at the intersection of deep learning and biomedical imaging, where I developed segmentation models for cell and tissue analysis and led projects spanning statistical modelling of high-dimensional spatial data — work that shipped as production features in a commercial SaaS platform.
+
+Today, at [Oculera](https://oculera.health), I contribute across a wide variety of tasks as the principal ML engineer: driving the scientific strategy, designing clinical studies, and building the full data and modelling stack behind our next-generation VR-based screening tools for neurological and developmental conditions.
