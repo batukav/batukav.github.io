@@ -22,8 +22,16 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Principle Machine Learning Engineer
+      institution: Oculera Health, Remote
+      year: 03.2026 - Present
+      description:
+        - Building robust and scalable data pipelines — Designing and maintaining end-to-end data infrastructure for clinical VR datasets, spanning ingestion, validation, versioning, and serving layers across multi-regional deployments.
+        - Developing machine learning models — Researching and implementing models for eye-tracking signal processing and clinical screening applications, including time-series classification, self-supervised learning, and psychometric score derivation from raw biometric data.
+        - Implementing internal AI tools — Building knowledge graph systems, deep research pipelines, and autonomous data science agents to accelerate clinical research workflows and reduce manual analytical overhead.
+        - Developing the scientific product strategy — Owning the full arc from research conceptualization and study design through regulatory-aware productionisation, bridging clinical science and engineering stakeholders.
     - title: Intentional Career Break
-      year: 06.2025 - Present
+      year: 06.2025 - 03.2026
       description:
         - Open-source project development in AI4Science
         - Agentic AI and knowledge graphs
@@ -31,7 +39,7 @@
       institution: ariadne.ai GmbH, Heidelberg, Germany
       year: 2022 - 2025
       description:
-        - Led research and development for biomedical imaging and spatial data analysis, resulting in three different features offered as part of company's SAAS
+        - Led research and development for biomedical imaging and spatial data analysis, resulting in three different features offered as part of company's SAAS.
         - Developed robust object (cell and tissue) segmentation models using deep neural networks, significantly reducing project delivery times.
         - Led internal and customer projects involving statistical modeling of high-dimensional image data. 
     - title: Postdoctoral Researcher
@@ -63,32 +71,32 @@
       year: 2025 - Present
       description: Core designer and developer of the open-source IDPDatabank that can be used to validate classical and generative AI structure predictions. 
 
-- title: Professional Interests
-  type: nested_list
-  contents:
-    - title: Machine Learning
-      items:
-        - Deep Learning, Computer Vision, Graph Neural Networks
-    - title: Computational Chemistry
-      items:
-        - Molecular Dynamics, Drug Discovery, Cheminformatics
-    - title: Biomedical Data Analysis
-      items:
-        - Biomedical Imaging, Proteomics, Transcriptomics
-    - title: Agentic AI and Knowledge Graphs
+# - title: Professional Interests
+#   type: nested_list
+#   contents:
+#     - title: Machine Learning
+#       items:
+#         - Deep Learning, Computer Vision, Graph Neural Networks
+#     - title: Computational Chemistry
+#       items:
+#         - Molecular Dynamics, Drug Discovery, Cheminformatics
+#     - title: Biomedical Data Analysis
+#       items:
+#         - Biomedical Imaging, Proteomics, Transcriptomics
+#     - title: Agentic AI and Knowledge Graphs
 
 - title: Computer Skills
   type: nested_list
   contents:
     - title: Languages
       items:
-        - Python
-    - title: ML Frameworks
+        - Python, TypeScript/JavaScript
+    - title: ML/AI Frameworks
       items:
-        - PyTorch, PyTorch-geometric, scikit-learn
+        - PyTorch, PyTorch-geometric, scikit-learn, LangChain, LangGraph
     - title: Python Libraries
       items:
-        - numpy, scikit-image, OpenCV, Pandas, RDKit, squidpy
+        - numpy, scikit-image, OpenCV, Pandas, RDKit, squidpy, Polars
     - title: Cloud
       items:
         - AWS, GCP
